@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_draw_client"
+        android:icon="@mipmap/drawer_icon_client"
+        android:title="@string/menu_draw_client"/>
+
+    <item
+        android:id="@+id/menu_draw_recommend"
+        android:icon="@mipmap/drawer_icon_recommend"
+        android:title="@string/menu_draw_recommend"/>
+
+    <item
+        android:id="@+id/menu_draw_app"
+        android:icon="@mipmap/app"
+        android:title="@string/menu_draw_app"/>
+
+    <item
+        android:id="@+id/menu_draw_expandresource"
+        android:icon="@mipmap/drawer_icon_resource"
+        android:title="@string/menu_draw_expandresource"/>
+    <item
+        android:id="@+id/menu_draw_video"
+        android:icon="@mipmap/drawer_icon_video"
+        android:title="@string/menu_draw_video"/>
+
+    <item
+        android:id="@+id/menu_draw_theme"
+        android:icon="@mipmap/drawer_icon_theme"
+        android:title="@string/menu_draw_theme"/>
+</menu>

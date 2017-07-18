@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_search"
+        android:icon="@mipmap/menu_action_search_white"
+        android:title="搜索"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/action_edit"
+        android:icon="@mipmap/menu_action_edit_white"
+        android:title="编辑"
+        app:showAsAction="ifRoom"/>
+</menu>
